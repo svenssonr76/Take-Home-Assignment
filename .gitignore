@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/Take-Home-Assignment/v15/Server/sqlite3
+/Take-Home Assignment/bin/Debug/netcoreapp2.1
+/Take-Home Assignment/obj
+/UnitTests/bin/Debug/netcoreapp2.1
+/UnitTests/obj
